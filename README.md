@@ -1,5 +1,15 @@
 # finance_management_mobile_app
 
+
+## Video
+https://github.com/user-attachments/assets/cb2684b9-e720-475b-8d0c-02f209ead445
+
+## screenshoots
+![Screenshot 2024-11-09 225650](https://github.com/user-attachments/assets/6e489093-80ea-47b3-9b78-4ffaa0aaf3aa)
+![Screenshot 2024-11-09 225623](https://github.com/user-attachments/assets/f674915c-f556-4245-80b5-0867b1a35a0a)
+![Screenshot 2024-11-09 225604](https://github.com/user-attachments/assets/f19c863e-40a7-40c1-be2b-601ed8dec3b7)
+
+
 A new Flutter project.
 
 ## Getting Started
